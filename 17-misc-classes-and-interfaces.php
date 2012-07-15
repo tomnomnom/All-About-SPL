@@ -1,5 +1,5 @@
 <?php
-// Misc Classes
+// Misc classes and interfaces
 
 $miscClasses = [
   'ArrayObject',
