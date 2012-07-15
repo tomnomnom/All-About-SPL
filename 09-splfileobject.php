@@ -18,3 +18,6 @@ $stdin = new SplFileObject('php://stdin');
 while(!$stdin->eof()){
   echo $stdin->fgets();
 }
+
+
+

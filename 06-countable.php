@@ -12,3 +12,12 @@ class Users implements Countable {
 $users = new Users();
 
 var_dump(count($users));
+
+
+
+
+
+
+
+
+

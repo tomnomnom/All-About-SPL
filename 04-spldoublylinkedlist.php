@@ -18,3 +18,6 @@ $start = microtime(true);
 for ($i = 0; $i < ITERATIONS; ++$i){ $fixed[] = $i; }
 echo 'Fixed time:    '.(microtime(true) - $start)."\n";
 echo 'Fixed mem:     '.(memory_get_usage() - $initalMem)."\n";
+
+
+

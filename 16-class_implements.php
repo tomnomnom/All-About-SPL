@@ -17,3 +17,7 @@ var_dump(class_implements('Users'));
 
 $users = new Users();
 var_dump(class_implements($users));
+
+
+
+

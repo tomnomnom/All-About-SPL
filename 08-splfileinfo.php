@@ -16,3 +16,8 @@ echo ($readme->isWritable()? 'Is' : 'Is not')." writable\n";
 echo ($readme->isLink()? 'Is' : 'Is not')." a symlink\n";
 
 $readme->openFile(); // ???
+
+
+
+
+
