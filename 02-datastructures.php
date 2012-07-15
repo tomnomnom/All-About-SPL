@@ -12,12 +12,12 @@ $datastructures = [
   'SplFixedArray',
   'SplObjectStorage'
 ];
-
-
-
-
-
-
-
-
-
+//                       `'/        \'
+//                         \  ~__   /
+//                          \ \  _)/
+//                           `-    ~
+//                           (     }
+//                           (  _  )
+//                            /   \
+//                           /     \
+//                          `'-    `'-
